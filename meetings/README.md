@@ -10,5 +10,5 @@ Meeting Minutes: https://docs.google.com/document/d/1lLju_aszLp4NtfjieAee3nSVQQV
 ### 15th Feb 2018 (Barcelona, McNeel) 2nd Speckle Meeting
 Meeting Report: https://docs.google.com/document/d/10s-NGUd2mLe8WVSyByKPcBrQSBLnxDP9Hxhzh8a9MeE/edit?usp=sharing
 
-### 25/26th April 2018 (London, TBD) 3rd Speckle Meeting
+### 26th April 2018 (London, TBD) 3rd Speckle Meeting
 Not happened yet. Doodle link: https://doodle.com/poll/aer3k6939ih79spv
